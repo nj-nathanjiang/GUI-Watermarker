@@ -2,7 +2,7 @@ from PIL import Image
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
 
-DIRECTORY = "../Users/nathanj/Documents"
+DIRECTORY = "../Users"
 
 
 def open_image():
